@@ -1,15 +1,11 @@
-
-import Banner from "/src/Components/layouts/Banner";
-
-
+import Banner from "../layouts/Banner";
 
 const Home = () => {
   return (
     <>
-    
- <Banner/>
+      <Banner />
     </>
   );
 };
 
-export default Home
+export default Home;

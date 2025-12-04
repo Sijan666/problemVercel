@@ -1,6 +1,11 @@
-import Heading from "../Heading";
-import Button from "../Button";
+// import Heading from "../Heading";
+// import Button from "../Button";
+// import Container from "../Container";
+
 import Container from "../Container";
+import Heading from '../Heading'
+import Button from "../Button";
+
 
 const Banner = () => {
   return (
